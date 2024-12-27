@@ -1,0 +1,101 @@
+
+=== Program Artikel ===
+1. Pencarian kata
+2. Penggantian kata
+3. Pengurutan kata
+4. Keluar
+Pilih menu (1/2/3/4): 1
+Masukkan kata yang ingin dicari: sekolah
+Kata "sekolah" ditemukan sebanyak 6 kali.
+
+=== Program Artikel ===
+1. Pencarian kata
+2. Penggantian kata
+3. Pengurutan kata
+4. Keluar
+Pilih menu (1/2/3/4): 2
+Masukkan kata yang ingin diganti: dapat
+Masukkan kata pengganti: mendapatkan
+Artikel setelah penggantian kata:
+
+Dalam kehidupan suatu negara, pendidikan memegang peranan yang amat 
+penting untuk menjamin kelangsungan hidup negara dan bangsa, karena pendidikan
+merupakan wahana untuk meningkatkan dan mengembangkan kualitas sumber daya
+manusia. Seiring dengan perkembangan teknologi komputer dan teknologi informasi,
+sekolah-sekolah di Indonesia sudah waktunya mengembangkan Sistem Informasi
+manajemennya agar mampu mengikuti perubahan jaman.
+SISKO mampu memberikan kemudahan pihak pengelola menjalankan
+kegiatannya dan meningkatkan kredibilitas dan akuntabilitas sekolah dimata siswa,
+orang tua siswa, dan masyakat umumnya.Penerapan teknologi informasi untuk
+menunjang proses pendidikan telah menjadi kebutuhan bagi lembaga pendidikan di
+Indonesia. Pemanfaatan teknologi informasi ini sangat dibutuhkan untuk
+meningkatkan efisiensi dan produktivitas bagi manajemen pendidikan. Keberhasilan
+dalam peningkatan efisiensi dan produktivitas bagi manajemen pendidikan akan ikut
+menentukan kelangsungan hidup lembaga pendidikan itu sendiri. Dengan kata lain
+menunda penerapan teknologi informasi dalam lembaga pendidikan berarti menunda
+kelancaran pendidikan dalam menghadapi persaingan global.
+Pemanfaatan teknologi informasi diperuntukkan bagi peningkatan kinerja
+lembaga pendidikan dalam upayanya meningkatkan kualitas Sumber Daya Manusia
+Indonesia. Guru dan pengurus sekolah tidak lagi disibukkan oleh pekerjaan-pekerjaan
+operasional, yang sesungguhnya mendapatkan digantikan oleh komputer. Dengan demikian
+mendapatkan memberikan keuntungan dalam efisien waktu dan tenaga.
+Penghematan waktu dan kecepatan penyajian informasi akibat penerapan
+teknologi informasi tersebut akan memberikan kesempatan kepada guru dan pengurus
+sekolah untuk meningkatkan kualitas komunikasi dan pembinaan kepada siswa.
+Dengan demikian siswa akan merasa lebih dimanusiakan dalam upaya
+mengembangkan kepribadian dan pengetahuannya.
+Sebagai contoh yang paling utama adalah sistem penjadwalan yang harus
+dilakukan setiap awal semester. Biasanya membutuhkan waktu lama untuk menyusun 
+penjadwalan, Dengan SISKO mendapatkan selesai dalam waktu singkat. Untuk
+mempermudah bagian administrasi kurikulum sekolah, SISKO menyediakan fasilitas
+istimewa yang merupakan inti dari sistem kurikulum sekolah yaitu membantu dalam
+pembuatan penjadwalan mata pelajaran sekolah yang mendapatkan diproses tidak lebih lama
+dari 10 menit. Administrator hanya akan memasukkan kondisi dari masing-masing
+guru yang akan mengajar baik itu dalam 1 minggu seorang guru mendapatkan mengajar berapa
+jam, selain itu mendapatkan juga melakukan pemesanan tempat dan penempatan hari libur
+masing-masing guru dalam 1 minggu masa mengajar. Setelah semua kondisi
+dimasukkan, sistem akan memproses semua data tersebut sehingga menghasilkan
+jadwal yang optimal dan mendapatkan langsung dipakai karena sistem akan mendeteksi
+sehingga tidak akan ada jadwal yang bertumpukan satu dengan yang lainnya.
+Setelah semua kondisi dimasukkan, sistem akan memproses semua data
+tersebut sehingga menghasilkan jadwal yang optimal dan mendapatkan langsung dipakai
+karena sistem akan mendeteksi sehingga tidak akan ada jadwal yang bertumpukan satu
+dengan yang lainnya. Setelah permasalahan penjadwalan mendapatkan ditangani dengan baik,
+hal yang tidak kalah pentingnya adalah memasukkan data siswa.
+Program SISKO telah menyediakan fasilitas untuk penanganan penilaian
+siswa yang secara langsung memasukkan nilai ke dalam raport dan siap dicetak. Untuk
+sistem penilaian siswa, yang mendapatkan melakukan pengisian hanya Guru yang mengajar
+mata pelajaran. Sistem penilaian telah disesuaikan dengan KBK sehingga masingmasing
+
+guru mendapatkan memasukkan deskripsi narasi dari mata pelajaran. Untuk
+menampilkan data penilaian mendapatkan disesuaikan kembali dengan kebijaksanaan dari
+masing-masing lembaga pendidikan apakah ingin menampilkan data nilai akhir siswa
+maupun menampilkan data nilai siswa setiap kali mengadakan test ataupun tugas
+tertentu.
+Selain Modul untuk penjadwalan dan Modul Penilaian siswa, SISKO juga
+memberikan fasilitas untuk bagian administrasi keuangan sekolah dalam hal
+pembayaran SPP siswa. Bagian administrasi mendapatkan langsung mengecek siapa siswa
+yang mempunyai tunggakan SPP dan untuk detail histori pembayaran SPP dari
+masing-masing siswa mendapatkan dicetak seperti mencetak buku tabungan di bank sehingga
+mempermudah pekerjaan pihak administrasi keuangan. Administrasi keuangan mendapatkan
+langsung melakukan pengaturan data pembayaran masing-masing siswa sesuai
+dengan kebutuhan dan mendapatkan diubah sewaktu-waktu apabila ada kenaikan pembayaran SPP. Apabila siswa tersebut akan melakukan pembayaran, petugas mendapatkan langsung
+memasukkan data. Hal sama juga mendapatkan dilakukan untuk Data pembayaran
+Sumbangan Sukarela dan Tabungan Karyawisata.
+
+
+=== Program Artikel ===
+1. Pencarian kata
+2. Penggantian kata
+3. Pengurutan kata
+4. Keluar
+Pilih menu (1/2/3/4): 3
+Kata-kata yang terurut secara abjad:
+['1', '10', 'ada', 'adalah', 'administrasi', 'administrator', 'agar', 'akan', 'akhir', 'akibat', 'akuntabilitas', 'amat', 'apabila', 'apakah', 'ataupun', 'awal', 'bagi', 'bagian', 'baik', 'bangsa', 'bank', 'berapa', 'berarti', 'bertumpukan', 'biasanya', 'buku', 'contoh', 'dalam', 'dan', 'dari', 'data', 'daya', 'demikian', 'dengan', 'deskripsi', 'detail', 'di', 'dibutuhkan', 'dicetak', 'digantikan', 'dilakukan', 'dimanusiakan', 'dimasukkan', 'dimata', 'dipakai', 'diperuntukkan', 'diproses', 'disesuaikan', 'disibukkan', 'ditangani', 'diubah', 'efisien', 'efisiensi', 'fasilitas', 'global', 'guru', 'hal', 'hanya', 'hari', 'harus', 'hidup', 'histori', 'ikut', 'indonesia', 'informasi', 'ingin', 'ini', 'inti', 'istimewa', 'itu', 'jadwal', 'jam', 'jaman', 'juga', 'kalah', 'kali', 'karena', 'karyawisata', 'kata', 'kbk', 'ke', 'keberhasilan', 'kebijaksanaan', 'kebutuhan', 'kecepatan', 'kegiatannya', 'kehidupan', 'kelancaran', 'kelangsungan', 'kembali', 'kemudahan', 'kenaikan', 'kepada', 'kepribadian', 'kesempatan', 'keuangan', 'keuntungan', 'kinerja', 'komputer', 'komunikasi', 'kondisi', 'kredibilitas', 'kualitas', 'kurikulum', 'lagi', 'lain', 'lainnya', 'lama', 'langsung', 'lebih', 'lembaga', 'libur', 'mampu', 'manajemen', 'manajemennya', 'manusia', 'masa', 'masing-masing', 'masingmasing', 'masyakat', 'mata', 'maupun', 'melakukan', 'memasukkan', 'membantu', 'memberikan', 'membutuhkan', 'memegang', 'mempermudah', 'memproses', 'mempunyai', 'menampilkan', 'mencetak', 'mendapatkan', 'mendeteksi', 'menentukan', 'mengadakan', 'mengajar', 'mengecek', 'mengembangkan', 'menghadapi', 'menghasilkan', 'mengikuti', 'meningkatkan', 'menit', 'menjadi', 'menjalankan', 'menjamin', 'menunda', 'menunjang', 'menyediakan', 'menyusun', 'merasa', 'merupakan', 'minggu', 'modul', 'narasi', 'negara', 'nilai', 'oleh', 'operasional', 'optimal', 'orang', 'paling', 'pekerjaan', 'pekerjaan-pekerjaan', 'pelajaran', 'pemanfaatan', 'pembayaran', 'pembinaan', 'pembuatan', 'pemesanan', 'penanganan', 'pendidikan', 'penempatan', 'penerapan', 'pengaturan', 'pengelola', 'pengetahuannya', 'penghematan', 'pengisian', 'pengurus', 'penilaian', 'peningkatan', 'penjadwalan', 'penting', 'pentingnya', 'penyajian', 'peranan', 'perkembangan', 'permasalahan', 'persaingan', 'perubahan', 'petugas', 'pihak', 'produktivitas', 'program', 'proses', 'raport', 'sama', 'sangat', 'satu', 'sebagai', 'secara', 'sehingga', 'seiring', 'sekolah', 'sekolah-sekolah', 'selain', 'selesai', 'semester', 'semua', 'sendiri', 'seorang', 'seperti', 'sesuai', 'sesungguhnya', 'setelah', 'setiap', 'sewaktu-waktu', 'siap', 'siapa', 'singkat', 'sisko', 'sistem', 'siswa', 'spp', 'suatu', 'sudah', 'sukarela', 'sumbangan', 'sumber', 'tabungan', 'teknologi', 'telah', 'tempat', 'tenaga', 'tersebut', 'tertentu', 'test', 'tidak', 'tua', 'tugas', 'tunggakan', 'umumnya.penerapan', 'untuk', 'upaya', 'upayanya', 'utama', 'wahana', 'waktu', 'waktunya', 'yaitu', 'yang']
+
+=== Program Artikel ===
+1. Pencarian kata
+2. Penggantian kata
+3. Pengurutan kata
+4. Keluar
+Pilih menu (1/2/3/4): 
